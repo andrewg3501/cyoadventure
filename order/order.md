@@ -3,3 +3,5 @@ you have decided to order food online from a local food place to deliver, but yo
 ## [order something else](../otherfood/otherfood.md)
 ---
 ## [wait 30 minutes](../wait/wait.md)
+---
+[start over](../home.md)
