@@ -6,3 +6,5 @@ after a few more hours, your friends decide to head home and it's just you. sudd
 [let the girl come over](../hangout/hangout.md)
 ---
 [keep to yourself](../alone/alone.md)
+---
+[start over](../home.md)
