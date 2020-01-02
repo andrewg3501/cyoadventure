@@ -2,4 +2,5 @@ you have chosen to go to Nintendo World! you and your friends decide to check ou
 you guys head out after about a good few hours and decide to call it a day, since it's late at night. you guys decide to go home together, but can't decide on how.
 **should you take a car home or take the train?**
 [take a car](../car/car.md)
+---
 [take the train](../train/train.md)
