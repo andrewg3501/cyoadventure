@@ -4,3 +4,5 @@ you have decided to stay in and make breakfast, but you cannot decide what to ea
 [make a bacon egg and cheese sandwich](../sandwich/sandwich.md)
 ---
 [order something online](../order/order.md)
+---
+[start over](../home.md)
